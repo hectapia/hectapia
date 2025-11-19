@@ -1,8 +1,8 @@
 # Hector Olivares Tapia
 
-## Hello, GitHub! 👋
+## Hello! 👋
 
-I'm Hector, a student at Brigham Young University-Idaho interested in <Your Profession/Interests such as: computer science, data science, web development, machine learning, ...>. Welcome to my GitHub profile!
+I'm Hector, a student at Brigham Young University-Idaho focusing on Web and Computer Programming. I'm currently blending my 25+ years of project leadership and analytical engineering experience with modern software development practices. Welcome to my GitHub profile!
 
 ## About Me
 
