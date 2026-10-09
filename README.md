@@ -21,60 +21,6 @@ I am committed to translating contractual and regulatory requirements into autom
 
 I support technical and executive leadership for high-impact contracts, ensuring that quality, safety, traceability, and financial control are embedded in every phase of project execution. My work combines field operational knowledge with digital management capabilities, allowing me to oversee contracts from both an engineering and governance perspective.
 
-I am focused on the effective execution of Contract No. 641004806, "Maintenance and/or rehabilitation service for marine cabins, pneumatic and hydraulic systems of special well service units," with emphasis on timely fulfillment, profitability, transparency, and safety.
-
----
-
-## History and Background of Contracts with PEMEX (COMIMSA)
-
-- Specific Agreement No. 645035800 (Service Order: DBC-JEIP-001-17)
-  - Description: Analysis of integrity, flexibility, and reliability of process facilities and production lines in the Southern Region and Dos Bocas Maritime Terminal.
-  - Dates: Start on April 24, 2017; valid until August 31, 2019.
-  - Role: Project Leader / Technical Representative.
-  - Scope: Coordination of multidisciplinary engineering teams, technical reporting, and reconciliation of service estimates before PEMEX supervision residence.
-
-- Contract No. 5400032140
-  - Description: Evaluation of conformity and permits for static equipment for the Marine Lines and Processes Operation and Transportation Management.
-  - Dates: Effective from July 22, 2020.
-  - Role: Technical Representative with full operational and administrative decision-making powers.
-  - Scope: Formal representation before the contracting authority, management of inspection fronts, documentary control, and conformity assessment reports.
-
-- Specific Agreement No. 428234829
-  - Description: Technical assistance for the implementation of systems, projects, and maintenance initiatives at the Atasta Gas Processing and Transportation Center.
-  - Dates: Effective from January 4, 2016.
-  - Role: Technical Representative.
-  - Scope: Coordination of predictive and preventive maintenance programs and control of physical-financial progress.
-
-- Specific Agreement No. 428813813
-  - Description: Inspection and evaluation of pipelines and vessels in the Atasta-Cd. Pemex Operating Sector.
-  - Dates: March 15, 2013 to December 31, 2015.
-  - Role: Agreement Coordinator and Technical Representative.
-  - Scope: Comprehensive management of a multi-year agreement, concept catalog administration, execution reconciliation, and technical direction of NDT inspections.
-
-- Specific Agreement No. 422640809
-  - Description: Inspection and evaluation of lines at the Atasta Gas Processing and Transportation Center.
-  - Dates: January 5, 2011 to December 31, 2011.
-  - Role: Supervisor and Technical Representative.
-  - Scope: On-site supervision of nondestructive testing and preparation of integrated work reports for estimate processing.
-
-- Specific Contract No. CS-436-RM-4006616
-  - Description: Evaluation service for ethylene oxide pipeline circuits and styrene lines at the Cangrejera Petrochemical Complex.
-  - Dates: April 19, 2010 to July 2, 2010.
-  - Role: Technical Representative.
-  - Scope: Coordination of high-risk fluid work under strict industrial safety standards.
-
-- Specific Agreement No. 422646804
-  - Description: Inspection and evaluation of lines and pressure vessels of the Atasta-Cd. Pemex Operating Sector.
-  - Dates: November 30, 2006 to November 29, 2008.
-  - Role: Responsible Technical Representative.
-  - Scope: Technical verification programs, field logistics, and financial closure of the agreement.
-
-- Specific Agreement GTDH-COMIMSA-001-2005
-  - Description: Inspection of pipelines at the Marine Gas Distribution Center, Cd. Pemex, Tabasco.
-  - Dates: September 29, 2005 to March 31, 2006.
-  - Role: Responsible Technical Representative.
-  - Scope: Startup and delivery of inspection results for hydrocarbon transport pipelines with strict adherence to quality standards.
-
 ---
 
 ## Key Competency Matrix for Contract Management
@@ -95,16 +41,17 @@ I am focused on the effective execution of Contract No. 641004806, "Maintenance 
 
 ### Academic Credentials
 
-- Mechanical and Electrical Engineer — UJAT
+- Mechanical and Electrical Engineer — Universidad Juárez Autónoma de Tabasco
 - Associate of Applied Science in Software Development — Brigham Young University-Idaho
-- Certificate in Web and Computer Programming — Brigham Young University-Idaho
+- Certificate in Software Development — Brigham Young University-Idaho
 - Certificate in Web Development — Brigham Young University-Idaho
+- Certificate in Web and Computer Programming — Brigham Young University-Idaho
 
 ### Academic Focus
 
-- Web and Computer Programming
 - Software Development
 - Web Development
+- Web and Computer Programming
 - Digital transformation and process automation
 
 ---
@@ -114,6 +61,7 @@ I am focused on the effective execution of Contract No. 641004806, "Maintenance 
 The attached academic records reflect the following degree and certificate achievements:
 
 - Associate of Applied Science in Software Development
+- Certificate in Software Development
 - Certificate in Web and Computer Programming
 - Certificate in Web Development
 
@@ -133,6 +81,25 @@ These academic milestones complement a career shaped by engineering discipline, 
 - GitHub: https://github.com/hectapia
 
 I welcome opportunities to contribute to digital transformation, contract governance, operational excellence, and project leadership initiatives.
+
+Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
+
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>&nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="PHP" width="40" height="40"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
+     alt="Python" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" 
+     alt="Kotlin" width="40" height="40"/>
+</div>
+
+[![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]()
 
 ---
 
