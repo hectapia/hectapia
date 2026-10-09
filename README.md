@@ -1,8 +1,7 @@
 # HECTOR OLIVARES TAPIA
 
-## Professional File
+## Professional Profile
 
-### Professional Profile
 
 Mechanical and Electrical Engineer (UJAT) | Associate of Applied Science in Software Development (BYU-Idaho) | Project Coordinator | Executive Consultant | Specialist in Contract Management and Digitization
 
