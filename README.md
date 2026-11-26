@@ -84,8 +84,8 @@ I welcome opportunities to contribute to digital transformation, contract govern
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
 
 <div>
-    <img src="https://shields.io" alt="JavaScript" height="30"/>&nbsp;
-    <img src="https://shields.io" alt="TypeScript" height="30"/>&nbsp;
+    <img src="https://skillicons.dev" alt="JavaScript" width="40" height="40"/>&nbsp;
+    <img src="https://skillicons.dev" alt="TypeScript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>&nbsp;
